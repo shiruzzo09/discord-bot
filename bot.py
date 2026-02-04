@@ -36,4 +36,5 @@ async def on_member_join(member):
 
     await channel.send(embed=embed)
 
-bot.run("MTQ2ODcyNTM5NTM3MjI0OTE0MQ.GcrOj7.jBhVploS58KVlEDH2_ze4possvfn7pOPNB23lw")
+bot.run("")
+
